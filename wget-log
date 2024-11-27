@@ -1,0 +1,52 @@
+--2024-11-27 11:04:21--  https://git-scm.com/images/logos/2color-lightbg@2x.png
+Resolving git-scm.com (git-scm.com)... 104.22.2.43, 104.22.3.43, 172.67.12.172, ...
+Connecting to git-scm.com (git-scm.com)|104.22.2.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|104.22.3.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|172.67.12.172|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|104.22.2.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|104.22.3.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|172.67.12.172|:443... failed: Connection timed out.
+Retrying.
+
+--2024-11-27 11:17:27--  (try: 2)  https://git-scm.com/images/logos/2color-lightbg@2x.png
+Connecting to git-scm.com (git-scm.com)|104.22.2.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|104.22.3.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|172.67.12.172|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|104.22.2.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|104.22.3.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|172.67.12.172|:443... failed: Connection timed out.
+Retrying.
+
+--2024-11-27 11:30:35--  (try: 3)  https://git-scm.com/images/logos/2color-lightbg@2x.png
+Connecting to git-scm.com (git-scm.com)|104.22.2.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|104.22.3.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|172.67.12.172|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|104.22.2.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|104.22.3.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|172.67.12.172|:443... failed: Connection timed out.
+Retrying.
+
+--2024-11-27 11:43:44--  (try: 4)  https://git-scm.com/images/logos/2color-lightbg@2x.png
+Connecting to git-scm.com (git-scm.com)|104.22.2.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|104.22.3.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|172.67.12.172|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|104.22.2.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|104.22.3.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|172.67.12.172|:443... failed: Connection timed out.
+Retrying.
+
+--2024-11-27 11:56:54--  (try: 5)  https://git-scm.com/images/logos/2color-lightbg@2x.png
+Connecting to git-scm.com (git-scm.com)|104.22.2.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|104.22.3.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|172.67.12.172|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|104.22.2.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|104.22.3.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|172.67.12.172|:443... failed: Connection timed out.
+Retrying.
+
+--2024-11-27 12:10:05--  (try: 6)  https://git-scm.com/images/logos/2color-lightbg@2x.png
+Connecting to git-scm.com (git-scm.com)|104.22.2.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|104.22.3.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|172.67.12.172|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|104.22.2.43|:443... failed: Connection timed out.
+Connecting to git-scm.com (git-scm.com)|104.22.3.43|:443... 
